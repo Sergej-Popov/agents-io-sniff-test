@@ -15,7 +15,7 @@ This agent performs a sniff test only. It does **not** guarantee safety, and use
 ## Install
 
 ```bash
-npx agents-io@latest add git@github.com:goblin-systems/agents-io-sniff-test
+npx agents-io@latest add git@github.com:Sergej-Popov/agents-io-sniff-test
 ```
 
 Replace `yourname` with your GitHub username or organization.
